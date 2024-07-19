@@ -1,1 +1,1 @@
-You can go through the tutorial https://www.roytuts.com/binary-search-using-c/
+Please follow the tutorial https://roytuts.com/binary-search-using-c/
